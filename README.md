@@ -1,16 +1,4 @@
-# profileiqbal
+Nama: Maulana Iqbal Hidayah
+NIM: 2309106103
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1238" height="371" alt="image" src="https://github.com/user-attachments/assets/06dad468-5930-4c9d-801a-e363bc13dd5e" />
